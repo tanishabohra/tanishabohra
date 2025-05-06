@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanishabohra
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on start ups and side-projects
 
 
